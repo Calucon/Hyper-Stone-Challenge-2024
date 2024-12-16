@@ -5,3 +5,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/../bin)
 
 project(HyperStoneChallenge)
 add_subdirectory(src/01)
+add_subdirectory(src/02)
