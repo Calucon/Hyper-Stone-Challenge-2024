@@ -3,8 +3,12 @@
 ## Requirements
 
 - `cmake` version `v3.22` or newer
+  - Support "Unix Makefiles"
 - `gcc` version `v13` or newer
   - `v12` should still work but C23 standard is only experimental
+
+You can build the project by executing the `build.sh` script.
+The binaries can then be found in the `bin/` directory.
 
 ## Solutions
 
