@@ -11,6 +11,14 @@
             "program": "${workspaceFolder}/bin/HSC_01.exe",
             "args": [],
             "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Exercise_03 (max: 100)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/HSC_03.exe",
+            "args": ["100"],
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
